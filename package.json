@@ -20,7 +20,7 @@
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
     "adr": "^1.5.2",
-    "eslint": "^9.39.0",
+    "eslint": "^9.39.1",
     "eslint-config-next": "15.5.5",
     "tailwindcss": "^4.1.16",
     "typescript": "^5.9.3"
