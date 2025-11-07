@@ -5,8 +5,11 @@ const Home = () => {
         ClaimJump
       </header>
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
-        lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia
-        odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada.
+        <p>
+          lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+          lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod
+          malesuada.
+        </p>
       </main>
     </>
   );
